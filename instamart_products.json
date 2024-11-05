@@ -1,0 +1,1172 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fresh Vegetables",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Fresh Vegetables"
+        },
+        {
+          "id": 2,
+          "name": "Leafy and Seasonings"
+        },
+        {
+          "id": 3,
+          "name": "Exotic Vegetables"
+        },
+        {
+          "id": 4,
+          "name": "Festive Essentials"
+        },
+        {
+          "id": 5,
+          "name": "Flowers & Plants"
+        },
+        {
+          "id": 6,
+          "name": "New Arrivals"
+        },
+        {
+          "id": 7,
+          "name": "Mangoes & Melons"
+        },
+        {
+          "id": 8,
+          "name": "Fresh Cuts and Salads"
+        },
+        {
+          "id": 9,
+          "name": "Certified Organics"
+        },
+        {
+          "id": 10,
+          "name": "Fresh Fruits"
+        },
+        {
+          "id": 11,
+          "name": "Exotic Fruits"
+        },
+        {
+          "id": 12,
+          "name": "Regional Favorites"
+        },
+        {
+          "id": 13,
+          "name": "Frozen Vegetables"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fresh Fruits",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Fresh Fruits"
+        },
+        {
+          "id": 2,
+          "name": "Mangoes & Melons"
+        },
+        {
+          "id": 3,
+          "name": "Exotic Fruits"
+        },
+        {
+          "id": 4,
+          "name": "Festive Essentials"
+        },
+        {
+          "id": 5,
+          "name": "Flowers & Plants"
+        },
+        {
+          "id": 6,
+          "name": "New Arrivals"
+        },
+        {
+          "id": 7,
+          "name": "Fresh Cuts and Juices"
+        },
+        {
+          "id": 8,
+          "name": "Fresh Vegetables"
+        },
+        {
+          "id": 9,
+          "name": "Leafy and Seasonings"
+        },
+        {
+          "id": 10,
+          "name": "Certified Organics"
+        },
+        {
+          "id": 11,
+          "name": "Exotic Vegetables"
+        },
+        {
+          "id": 12,
+          "name": "Regional Favorites"
+        },
+        {
+          "id": 13,
+          "name": "Combos"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dairy, Bread and Eggs",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Bestsellers"
+        },
+        {
+          "id": 2,
+          "name": "Bread and Buns"
+        },
+        {
+          "id": 3,
+          "name": "Milk"
+        },
+        {
+          "id": 4,
+          "name": "Eggs"
+        },
+        {
+          "id": 5,
+          "name": "Curd and Yogurts"
+        },
+        {
+          "id": 6,
+          "name": "Paneer and Cream"
+        },
+        {
+          "id": 7,
+          "name": "Butter"
+        },
+        {
+          "id": 8,
+          "name": "Cheese"
+        },
+        {
+          "id": 9,
+          "name": "Milk Based Drinks"
+        },
+        {
+          "id": 10,
+          "name": "Dairy Alternatives"
+        },
+        {
+          "id": 11,
+          "name": "Indian Breads"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Rice, Atta and Dals",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Top Deals"
+        },
+        {
+          "id": 2,
+          "name": "Regional Rice"
+        },
+        {
+          "id": 3,
+          "name": "Basmati Rice"
+        },
+        {
+          "id": 4,
+          "name": "Atta"
+        },
+        {
+          "id": 5,
+          "name": "Sooji, Besan & Others"
+        },
+        {
+          "id": 6,
+          "name": "Toor, Urad & Moong"
+        },
+        {
+          "id": 7,
+          "name": "Rajma, Chana & Others"
+        },
+        {
+          "id": 8,
+          "name": "Peanut, Poha & Others"
+        },
+        {
+          "id": 9,
+          "name": "Ready to Cook"
+        },
+        {
+          "id": 10,
+          "name": "Organic and Healthy"
+        },
+        {
+          "id": 11,
+          "name": "Newly Added"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Masalas and Dry Fruits",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Top Deals"
+        },
+        {
+          "id": 2,
+          "name": "Dry Fruits and Nuts"
+        },
+        {
+          "id": 3,
+          "name": "Flavoured Nuts"
+        },
+        {
+          "id": 4,
+          "name": "Masalas and Pastes"
+        },
+        {
+          "id": 5,
+          "name": "Salt, Sugar and Jaggery"
+        },
+        {
+          "id": 6,
+          "name": "Dates & Seeds"
+        },
+        {
+          "id": 7,
+          "name": "Whole Spices"
+        },
+        {
+          "id": 8,
+          "name": "Herbs & Seasoning"
+        },
+        {
+          "id": 9,
+          "name": "Pickles and Chutney"
+        },
+        {
+          "id": 10,
+          "name": "Papad and Fryums"
+        },
+        {
+          "id": 11,
+          "name": "Organic and Healthy"
+        },
+        {
+          "id": 12,
+          "name": "Sauces and Vinegar"
+        },
+        {
+          "id": 13,
+          "name": "Gift Packs"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Oils and Ghee",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Top Deals"
+        },
+        {
+          "id": 2,
+          "name": "Sunflower & Other Oils"
+        },
+        {
+          "id": 3,
+          "name": "Mustard Oils"
+        },
+        {
+          "id": 4,
+          "name": "Ghee"
+        },
+        {
+          "id": 5,
+          "name": "Blended Oils"
+        },
+        {
+          "id": 6,
+          "name": "Rice Bran Oils"
+        },
+        {
+          "id": 7,
+          "name": "Olive Oils"
+        },
+        {
+          "id": 8,
+          "name": "Soyabean Oils"
+        },
+        {
+          "id": 9,
+          "name": "Cold-pressed Oils"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Munchies",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Chips and Crisps"
+        },
+        {
+          "id": 2,
+          "name": "Nachos"
+        },
+        {
+          "id": 3,
+          "name": "Puffs and Crunchies"
+        },
+        {
+          "id": 4,
+          "name": "Bhujia and Namkeens"
+        },
+        {
+          "id": 5,
+          "name": "Indian Snacks"
+        },
+        {
+          "id": 6,
+          "name": "Nuts and Makhana"
+        },
+        {
+          "id": 7,
+          "name": "Popcorn"
+        },
+        {
+          "id": 8,
+          "name": "Healthy Snacking"
+        },
+        {
+          "id": 9,
+          "name": "Protein Chips"
+        },
+        {
+          "id": 10,
+          "name": "Value Packs"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sweet Tooth",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Bestsellers"
+        },
+        {
+          "id": 2,
+          "name": "Family Packs"
+        },
+        {
+          "id": 3,
+          "name": "Cones, Bars & Cups"
+        },
+        {
+          "id": 4,
+          "name": "Chocolates"
+        },
+        {
+          "id": 5,
+          "name": "Shared Packs"
+        },
+        {
+          "id": 6,
+          "name": "Indian Sweets"
+        },
+        {
+          "id": 7,
+          "name": "Dark Chocolates"
+        },
+        {
+          "id": 8,
+          "name": "Candies and Gums"
+        },
+        {
+          "id": 9,
+          "name": "Baking and Dessert Mix"
+        },
+        {
+          "id": 10,
+          "name": "Cookies and Cakes"
+        },
+        {
+          "id": 11,
+          "name": "Flavoured Yogurts"
+        },
+        {
+          "id": 12,
+          "name": "Guilt-Free Desserts"
+        },
+        {
+          "id": 13,
+          "name": "Value Packs"
+        },
+        {
+          "id": 14,
+          "name": "Newly Added"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Cold Drinks and Juices",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Bestsellers"
+        },
+        {
+          "id": 2,
+          "name": "Soft Drinks"
+        },
+        {
+          "id": 3,
+          "name": "Energy Drinks"
+        },
+        {
+          "id": 4,
+          "name": "Juices and Fruit Drinks"
+        },
+        {
+          "id": 5,
+          "name": "Soda and Mixers"
+        },
+        {
+          "id": 6,
+          "name": "Party Packs"
+        },
+        {
+          "id": 7,
+          "name": "Water and Ice Cubes"
+        },
+        {
+          "id": 8,
+          "name": "Ice Tea & Cold Coffee"
+        },
+        {
+          "id": 9,
+          "name": "Non Alcoholic Beverages"
+        },
+        {
+          "id": 10,
+          "name": "Milk Based Drinks"
+        },
+        {
+          "id": 11,
+          "name": "Instant Drink Mixes"
+        },
+        {
+          "id": 12,
+          "name": "Newly Added"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Biscuits and Cakes",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Bestsellers"
+        },
+        {
+          "id": 2,
+          "name": "Cookies"
+        },
+        {
+          "id": 3,
+          "name": "Cream Biscuits"
+        },
+        {
+          "id": 4,
+          "name": "Cakes and Pies"
+        },
+        {
+          "id": 5,
+          "name": "Marie and Digestive"
+        },
+        {
+          "id": 6,
+          "name": "Salted and Plain"
+        },
+        {
+          "id": 7,
+          "name": "Rusk"
+        },
+        {
+          "id": 8,
+          "name": "Wafers"
+        },
+        {
+          "id": 9,
+          "name": "Value Packs"
+        },
+        {
+          "id": 10,
+          "name": "Newly Added"
+        },
+        {
+          "id": 11,
+          "name": "Healthy Snacking"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Instant and Frozen Food",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Bestsellers"
+        },
+        {
+          "id": 2,
+          "name": "Noodles and Vermicelli"
+        },
+        {
+          "id": 3,
+          "name": "Pasta and Soups"
+        },
+        {
+          "id": 4,
+          "name": "Non Veg - Frozen"
+        },
+        {
+          "id": 5,
+          "name": "Batter and Breakfast"
+        },
+        {
+          "id": 6,
+          "name": "Veg - Frozen"
+        },
+        {
+          "id": 7,
+          "name": "Ready to Eat"
+        },
+        {
+          "id": 8,
+          "name": "Baking and Dessert Mix"
+        },
+        {
+          "id": 9,
+          "name": "Newly Added"
+        },
+        {
+          "id": 10,
+          "name": "Plant Based Meat"
+        },
+        {
+          "id": 11,
+          "name": "Healthy Eats"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Meat and Seafood",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Bestsellers"
+        },
+        {
+          "id": 2,
+          "name": "Chicken"
+        },
+        {
+          "id": 3,
+          "name": "Mutton"
+        },
+        {
+          "id": 4,
+          "name": "Fish and Seafood"
+        },
+        {
+          "id": 5,
+          "name": "Frozen Meat"
+        },
+        {
+          "id": 6,
+          "name": "Eggs"
+        },
+        {
+          "id": 7,
+          "name": "Marinated"
+        },
+        {
+          "id": 8,
+          "name": "Cold Cuts"
+        },
+        {
+          "id": 9,
+          "name": "Plant Based Meat"
+        },
+        {
+          "id": 10,
+          "name": "Frozen"
+        },
+        {
+          "id": 11,
+          "name": "Masalas"
+        },
+        {
+          "id": 12,
+          "name": "Paste and Spreads"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Cereals and Breakfast",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Bestsellers"
+        },
+        {
+          "id": 2,
+          "name": "Batters & Mixes"
+        },
+        {
+          "id": 3,
+          "name": "Flakes"
+        },
+        {
+          "id": 4,
+          "name": "Oats"
+        },
+        {
+          "id": 5,
+          "name": "Kids Cereals"
+        },
+        {
+          "id": 6,
+          "name": "Muesli & Granola"
+        },
+        {
+          "id": 7,
+          "name": "Energy Bars"
+        },
+        {
+          "id": 8,
+          "name": "Honey & Cider Vinegar"
+        },
+        {
+          "id": 9,
+          "name": "Peanut Butters"
+        },
+        {
+          "id": 10,
+          "name": "Pancake Mixes"
+        },
+        {
+          "id": 11,
+          "name": "Jams"
+        },
+        {
+          "id": 12,
+          "name": "Juices & Fruit Drinks"
+        },
+        {
+          "id": 13,
+          "name": "Hot Beverages"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Sauces and Spreads",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Bestsellers"
+        },
+        {
+          "id": 2,
+          "name": "Tomato & Chilli Ketchups"
+        },
+        {
+          "id": 3,
+          "name": "Spreads & Dips"
+        },
+        {
+          "id": 4,
+          "name": "Chocolate Spreads"
+        },
+        {
+          "id": 5,
+          "name": "Peanut Butters"
+        },
+        {
+          "id": 6,
+          "name": "Cooking Sauces"
+        },
+        {
+          "id": 7,
+          "name": "Asian Sauces"
+        },
+        {
+          "id": 8,
+          "name": "Jams"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Tea, Coffee and More",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Top Deals"
+        },
+        {
+          "id": 2,
+          "name": "Tea"
+        },
+        {
+          "id": 3,
+          "name": "Instant Coffee"
+        },
+        {
+          "id": 4,
+          "name": "Filter & Ground Coffee"
+        },
+        {
+          "id": 5,
+          "name": "Green and Herbal Tea"
+        },
+        {
+          "id": 6,
+          "name": "Fruit Syrups and Powders"
+        },
+        {
+          "id": 7,
+          "name": "Choco Syrups & Powders"
+        },
+        {
+          "id": 8,
+          "name": "Drink Mixes"
+        },
+        {
+          "id": 9,
+          "name": "Adult Nutrition"
+        },
+        {
+          "id": 10,
+          "name": "Protein Powders"
+        },
+        {
+          "id": 11,
+          "name": "Premixes"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Cleaning Essentials",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Liquid Detergents"
+        },
+        {
+          "id": 2,
+          "name": "Detergent Powder & Bar"
+        },
+        {
+          "id": 3,
+          "name": "Surface Cleaners"
+        },
+        {
+          "id": 4,
+          "name": "Utensil Cleaners"
+        },
+        {
+          "id": 5,
+          "name": "Toilet Cleaners"
+        },
+        {
+          "id": 6,
+          "name": "Fabric Care"
+        },
+        {
+          "id": 7,
+          "name": "Scrub & Sponge"
+        },
+        {
+          "id": 8,
+          "name": "Cleaning Supplies"
+        },
+        {
+          "id": 9,
+          "name": "Hand Wash & Sanitizers"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Pharma and Hygiene",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Feminine Hygiene"
+        },
+        {
+          "id": 2,
+          "name": "Oral Care"
+        },
+        {
+          "id": 3,
+          "name": "Sexual Wellness"
+        },
+        {
+          "id": 4,
+          "name": "Hand Wash & Sanitizers"
+        },
+        {
+          "id": 5,
+          "name": "Basic Pharma"
+        },
+        {
+          "id": 6,
+          "name": "Vitamins & Digestives"
+        },
+        {
+          "id": 7,
+          "name": "Wound Care & Pain"
+        },
+        {
+          "id": 8,
+          "name": "Hair Removal"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Bath, Body and Hair",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Shampoo & Conditioner"
+        },
+        {
+          "id": 2,
+          "name": "Soap"
+        },
+        {
+          "id": 3,
+          "name": "Shower Gel"
+        },
+        {
+          "id": 4,
+          "name": "Face Wash & Scrub"
+        },
+        {
+          "id": 5,
+          "name": "Perfume Deo & Talc"
+        },
+        {
+          "id": 6,
+          "name": "Face Cream"
+        },
+        {
+          "id": 7,
+          "name": "Hair Oil & Serum"
+        },
+        {
+          "id": 8,
+          "name": "Body Lotion"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Paan Corner",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Cigarettes"
+        },
+        {
+          "id": 2,
+          "name": "Smoking Accessories"
+        },
+        {
+          "id": 3,
+          "name": "Paan and Mouth Fresheners"
+        },
+        {
+          "id": 4,
+          "name": "Mint and Gums"
+        },
+        {
+          "id": 5,
+          "name": "Nicotine Alternatives"
+        },
+        {
+          "id": 6,
+          "name": "Ice Cream"
+        },
+        {
+          "id": 7,
+          "name": "Chocolates"
+        },
+        {
+          "id": 8,
+          "name": "Drinks"
+        },
+        {
+          "id": 9,
+          "name": "Snacks"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Home and Kitchen",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Air Freshener"
+        },
+        {
+          "id": 2,
+          "name": "Repellent"
+        },
+        {
+          "id": 3,
+          "name": "Paper Disposable"
+        },
+        {
+          "id": 4,
+          "name": "Pooja Needs"
+        },
+        {
+          "id": 5,
+          "name": "Garbage Bag"
+        },
+        {
+          "id": 6,
+          "name": "Kitchen and Dining"
+        },
+        {
+          "id": 7,
+          "name": "Home Improvement & Decor"
+        },
+        {
+          "id": 8,
+          "name": "Toys & Games"
+        },
+        {
+          "id": 9,
+          "name": "Party Needs"
+        },
+        {
+          "id": 10,
+          "name": "Gardening"
+        },
+        {
+          "id": 11,
+          "name": "Scrub & Sponge"
+        },
+        {
+          "id": 12,
+          "name": "Cleaning Supplies"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Office and Electricals",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Mobile Accessories"
+        },
+        {
+          "id": 2,
+          "name": "Home Appliances"
+        },
+        {
+          "id": 3,
+          "name": "Stationery"
+        },
+        {
+          "id": 4,
+          "name": "Audio Store"
+        },
+        {
+          "id": 5,
+          "name": "Smart Watch"
+        },
+        {
+          "id": 6,
+          "name": "Batteries"
+        },
+        {
+          "id": 7,
+          "name": "Bulbs & Electricals"
+        },
+        {
+          "id": 8,
+          "name": "Basic Electrical"
+        },
+        {
+          "id": 9,
+          "name": "Grooming Appliances"
+        },
+        {
+          "id": 10,
+          "name": "Toys & Games"
+        },
+        {
+          "id": 11,
+          "name": "Party Needs"
+        },
+        {
+          "id": 12,
+          "name": "Computer Accessories"
+        },
+        {
+          "id": 13,
+          "name": "Health Care Appliances"
+        },
+        {
+          "id": 14,
+          "name": "Kitchen Appliances"
+        },
+        {
+          "id": 15,
+          "name": "Powerbanks and Chargers"
+        },
+        {
+          "id": 16,
+          "name": "Streaming Devices"
+        },
+        {
+          "id": 17,
+          "name": "Laptop Sleeves"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Baby Care",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Baby Food and Formula"
+        },
+        {
+          "id": 2,
+          "name": "Diapers & Wipes"
+        },
+        {
+          "id": 3,
+          "name": "Bath & Hair"
+        },
+        {
+          "id": 4,
+          "name": "Skin Care"
+        },
+        {
+          "id": 5,
+          "name": "Baby Pharma"
+        },
+        {
+          "id": 6,
+          "name": "Oral Care"
+        },
+        {
+          "id": 7,
+          "name": "Baby Accessories"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Pet Supplies",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Dog Food"
+        },
+        {
+          "id": 2,
+          "name": "Cat Food"
+        },
+        {
+          "id": 3,
+          "name": "Pet Grooming"
+        },
+        {
+          "id": 4,
+          "name": "Pet Accessories & Toys"
+        },
+        {
+          "id": 5,
+          "name": "Pet Supplements"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Beauty and Grooming",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Makeup"
+        },
+        {
+          "id": 2,
+          "name": "Face & Lip Care"
+        },
+        {
+          "id": 3,
+          "name": "Shaving Needs"
+        },
+        {
+          "id": 4,
+          "name": "Hair Colour"
+        },
+        {
+          "id": 5,
+          "name": "Beauty Accessories"
+        },
+        {
+          "id": 6,
+          "name": "Lifestyle"
+        },
+        {
+          "id": 7,
+          "name": "Gift Packs"
+        },
+        {
+          "id": 8,
+          "name": "Shoe Care"
+        },
+        {
+          "id": 9,
+          "name": "Men's Grooming"
+        }
+      ]
+    }
+  ]
+}
