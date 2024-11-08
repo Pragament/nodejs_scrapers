@@ -22,38 +22,34 @@
         },
         {
           "id": 5,
-          "name": "Flowers & Plants"
-        },
-        {
-          "id": 6,
           "name": "New Arrivals"
         },
         {
-          "id": 7,
+          "id": 6,
           "name": "Mangoes & Melons"
         },
         {
-          "id": 8,
+          "id": 7,
           "name": "Fresh Cuts and Salads"
         },
         {
-          "id": 9,
+          "id": 8,
           "name": "Certified Organics"
         },
         {
-          "id": 10,
+          "id": 9,
           "name": "Fresh Fruits"
         },
         {
-          "id": 11,
+          "id": 10,
           "name": "Exotic Fruits"
         },
         {
-          "id": 12,
+          "id": 11,
           "name": "Regional Favorites"
         },
         {
-          "id": 13,
+          "id": 12,
           "name": "Frozen Vegetables"
         }
       ]
@@ -80,38 +76,34 @@
         },
         {
           "id": 5,
-          "name": "Flowers & Plants"
-        },
-        {
-          "id": 6,
           "name": "New Arrivals"
         },
         {
-          "id": 7,
+          "id": 6,
           "name": "Fresh Cuts and Juices"
         },
         {
-          "id": 8,
+          "id": 7,
           "name": "Fresh Vegetables"
         },
         {
-          "id": 9,
+          "id": 8,
           "name": "Leafy and Seasonings"
         },
         {
-          "id": 10,
+          "id": 9,
           "name": "Certified Organics"
         },
         {
-          "id": 11,
+          "id": 10,
           "name": "Exotic Vegetables"
         },
         {
-          "id": 12,
+          "id": 11,
           "name": "Regional Favorites"
         },
         {
-          "id": 13,
+          "id": 12,
           "name": "Combos"
         }
       ]
@@ -608,26 +600,22 @@
         },
         {
           "id": 7,
-          "name": "Marinated"
-        },
-        {
-          "id": 8,
           "name": "Cold Cuts"
         },
         {
-          "id": 9,
+          "id": 8,
           "name": "Plant Based Meat"
         },
         {
-          "id": 10,
+          "id": 9,
           "name": "Frozen"
         },
         {
-          "id": 11,
+          "id": 10,
           "name": "Masalas"
         },
         {
-          "id": 12,
+          "id": 11,
           "name": "Paste and Spreads"
         }
       ]
