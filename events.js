@@ -8,7 +8,7 @@ async function autoScroll(page, productList) {
                 previousHeight = div.scrollHeight;
                 div.scrollTop = div.scrollHeight;
 
-                await new Promise(resolve => setTimeout(resolve, 1000));
+                await new Promise(resolve => setTimeout(resolve, 3000));
 
                 console.log(`pre height = ${previousHeight} | scroll height = ${div.scrollHeight} || ${div.scrollHeight === previousHeight}`);
 
